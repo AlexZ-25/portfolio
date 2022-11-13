@@ -2,7 +2,8 @@
 Este repositorio corresponde al proyecto 6 del Bootcamp de Fullstack de Desarrollo Web.
 Contiene las siguientes secciones:
 <ul>
-  <li>Header</li>
+  <li>Header:</li> 
+  Contiene mi nombre y mis principales redes profesionales.
   <li>Jumbotron</li>
   <li>Blog</li>
   <li>Adicionales</li>
